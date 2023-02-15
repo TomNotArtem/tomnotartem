@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+### 🔭 I’m a programming teacher for schoolchildren 
+### 🌱 And I’m currently learning:
+<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java&logoColor=#7F52FF"/> <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor=#7F52FF"/> <img src="https://img.shields.io/badge/ANDROID-black?style=for-the-badge&logo=Android&logoColor=#3DDC84"/> <img src="https://img.shields.io/badge/Android Studio-black?style=for-the-badge&logo=Android Studio&logoColor=#3DDC84"/>
+
 
 <!--
 **TomNotArtem/tomnotartem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
