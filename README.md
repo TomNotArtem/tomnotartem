@@ -1,7 +1,6 @@
 ### Hi there 👋 
-### 🔭 I'm a programming teacher and computer science for school children (middle and high school)
-### 🌱 And I’m currently learning:
-<img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor=#7F52FF"/> <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java&logoColor=#7F52FF"/>  <img src="https://img.shields.io/badge/ANDROID-black?style=for-the-badge&logo=Android&logoColor=#3DDC84"/> <img src="https://img.shields.io/badge/Android Studio-black?style=for-the-badge&logo=Android Studio&logoColor=#3DDC84"/>
+### 🔭 I'm a computer science teacher for school children (middle and high school)
+### 🌱 And I’m currently learning C++ Programming in Unreal Engine (UE5)
 
 
 <!--
