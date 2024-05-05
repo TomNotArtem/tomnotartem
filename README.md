@@ -1,7 +1,5 @@
 ### Hi there 👋 
-### 🔭 I'm a computer science teacher for school children (middle and high school)
-### 🌱 And I’m currently learning C++ Programming in Unreal Engine (UE5)
-
+### 🔭 I'm a computer science teacher
 
 <!--
 **TomNotArtem/tomnotartem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
